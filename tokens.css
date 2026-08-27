@@ -1,0 +1,69 @@
+/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 */
+/* Hallmark · genre: modern-minimal · macrostructure: Workbench · theme: Cobalt · enrichment: Tier B hand-built SVG · nav: N3 · footer: Ft2 · contrast: pass (40–41) · slop: pass (42–45) · honest: pass (46) · chrome: pass (47) · tokens: pass (48) · responsive: pass (49) · mobile: pass (34, 49, 50–57) · icons: pass (30) */
+:root {
+  --font-display: "Space Grotesk Variable", sans-serif;
+  --font-body: "Space Grotesk Variable", sans-serif;
+  --font-data: "JetBrains Mono", monospace;
+
+  --color-paper: oklch(98.5% 0.004 250);
+  --color-paper-raised: oklch(96.5% 0.008 250);
+  --color-paper-pressed: oklch(93.5% 0.011 250);
+  --color-rule: oklch(86% 0.013 250);
+  --color-rule-strong: oklch(72% 0.018 250);
+  --color-neutral: oklch(46% 0.019 255);
+  --color-muted: oklch(38% 0.018 255);
+  --color-ink-soft: oklch(31% 0.02 258);
+  --color-ink: oklch(24% 0.02 258);
+  --color-graphite: oklch(17% 0.018 258);
+  --color-graphite-raised: oklch(22% 0.021 258);
+  --color-on-dark: oklch(94% 0.009 250);
+  --color-on-dark-muted: oklch(77% 0.012 250);
+  --color-accent: oklch(54% 0.2 256);
+  --color-accent-hover: oklch(47% 0.19 256);
+  --color-accent-ink: oklch(98% 0.005 250);
+  --color-cobalt-soft: oklch(89% 0.055 256);
+  --color-focus: oklch(44% 0.18 256);
+  --color-critical: oklch(52% 0.18 25);
+  --color-critical-soft: oklch(94% 0.035 25);
+  --color-watch: oklch(56% 0.13 72);
+  --color-watch-soft: oklch(95% 0.04 72);
+  --color-stable: oklch(43% 0.04 170);
+  --color-stable-soft: oklch(94% 0.025 170);
+
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+
+  --text-xs: 0.7rem;
+  --text-sm: 0.82rem;
+  --text-base: 1rem;
+  --text-md: 1.125rem;
+  --text-lg: 1.375rem;
+  --text-xl: 1.75rem;
+  --text-2xl: 2.4rem;
+  --text-stat: 4.6rem;
+
+  --radius-xs: 3px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --shadow-raised: 0 12px 32px oklch(18% 0.02 258 / 0.1);
+  --shadow-whisper: 0 2px 8px oklch(18% 0.02 258 / 0.07);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long: 420ms;
+
+  --z-base: 1;
+  --z-raised: 10;
+  --z-sticky: 200;
+  --z-tooltip: 600;
+}
