@@ -1,0 +1,2041 @@
+{
+  "engine": {
+    "engine_id": 44,
+    "observed_cycles": 54,
+    "predicted_rul": 121.3,
+    "lower_rul": 91.4,
+    "upper_rul": 125.0,
+    "actual_rul": 109.0,
+    "absolute_error": 12.3,
+    "health_score": 97,
+    "risk_band": "stable"
+  },
+  "prediction_series": [
+    {
+      "cycle": 1,
+      "predicted_rul": 123.2,
+      "lower_rul": 93.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 2,
+      "predicted_rul": 124.9,
+      "lower_rul": 95.0,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 3,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 4,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 5,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 6,
+      "predicted_rul": 124.5,
+      "lower_rul": 94.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 7,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 8,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 9,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 10,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 11,
+      "predicted_rul": 123.2,
+      "lower_rul": 93.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 12,
+      "predicted_rul": 124.1,
+      "lower_rul": 94.2,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 13,
+      "predicted_rul": 124.6,
+      "lower_rul": 94.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 14,
+      "predicted_rul": 124.0,
+      "lower_rul": 94.0,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 15,
+      "predicted_rul": 123.0,
+      "lower_rul": 93.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 16,
+      "predicted_rul": 123.6,
+      "lower_rul": 93.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 17,
+      "predicted_rul": 123.9,
+      "lower_rul": 94.0,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 18,
+      "predicted_rul": 124.0,
+      "lower_rul": 94.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 19,
+      "predicted_rul": 123.7,
+      "lower_rul": 93.8,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 20,
+      "predicted_rul": 123.7,
+      "lower_rul": 93.8,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 21,
+      "predicted_rul": 122.8,
+      "lower_rul": 92.8,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 22,
+      "predicted_rul": 123.4,
+      "lower_rul": 93.5,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 23,
+      "predicted_rul": 123.7,
+      "lower_rul": 93.7,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 24,
+      "predicted_rul": 124.6,
+      "lower_rul": 94.7,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 25,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 26,
+      "predicted_rul": 122.8,
+      "lower_rul": 92.9,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 27,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 28,
+      "predicted_rul": 124.2,
+      "lower_rul": 94.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 29,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 30,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 31,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 32,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 33,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 34,
+      "predicted_rul": 121.3,
+      "lower_rul": 91.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 35,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 36,
+      "predicted_rul": 125.0,
+      "lower_rul": 95.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 37,
+      "predicted_rul": 124.5,
+      "lower_rul": 94.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 38,
+      "predicted_rul": 124.1,
+      "lower_rul": 94.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 39,
+      "predicted_rul": 119.9,
+      "lower_rul": 90.0,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 40,
+      "predicted_rul": 121.7,
+      "lower_rul": 91.8,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 41,
+      "predicted_rul": 120.3,
+      "lower_rul": 90.4,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 42,
+      "predicted_rul": 120.6,
+      "lower_rul": 90.7,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 43,
+      "predicted_rul": 122.2,
+      "lower_rul": 92.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 44,
+      "predicted_rul": 123.9,
+      "lower_rul": 93.9,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 45,
+      "predicted_rul": 123.1,
+      "lower_rul": 93.1,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 46,
+      "predicted_rul": 122.2,
+      "lower_rul": 92.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 47,
+      "predicted_rul": 121.2,
+      "lower_rul": 91.3,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 48,
+      "predicted_rul": 121.5,
+      "lower_rul": 91.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 49,
+      "predicted_rul": 117.6,
+      "lower_rul": 87.7,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 50,
+      "predicted_rul": 121.3,
+      "lower_rul": 91.4,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 51,
+      "predicted_rul": 120.5,
+      "lower_rul": 90.5,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 52,
+      "predicted_rul": 122.8,
+      "lower_rul": 92.9,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 53,
+      "predicted_rul": 122.5,
+      "lower_rul": 92.6,
+      "upper_rul": 125.0
+    },
+    {
+      "cycle": 54,
+      "predicted_rul": 121.3,
+      "lower_rul": 91.4,
+      "upper_rul": 125.0
+    }
+  ],
+  "sensors": [
+    {
+      "key": "sensor_4",
+      "label": "LPT outlet temperature",
+      "unit": "°R",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 1400.3,
+          "normalized": 21.24
+        },
+        {
+          "cycle": 2,
+          "value": 1408.13,
+          "normalized": 40.99
+        },
+        {
+          "cycle": 3,
+          "value": 1401.98,
+          "normalized": 25.48
+        },
+        {
+          "cycle": 4,
+          "value": 1403.34,
+          "normalized": 28.91
+        },
+        {
+          "cycle": 5,
+          "value": 1406.26,
+          "normalized": 36.27
+        },
+        {
+          "cycle": 6,
+          "value": 1399.03,
+          "normalized": 18.03
+        },
+        {
+          "cycle": 7,
+          "value": 1404.77,
+          "normalized": 32.52
+        },
+        {
+          "cycle": 8,
+          "value": 1405.37,
+          "normalized": 34.03
+        },
+        {
+          "cycle": 9,
+          "value": 1412.09,
+          "normalized": 50.98
+        },
+        {
+          "cycle": 10,
+          "value": 1410.96,
+          "normalized": 48.13
+        },
+        {
+          "cycle": 11,
+          "value": 1406.2,
+          "normalized": 36.12
+        },
+        {
+          "cycle": 12,
+          "value": 1405.51,
+          "normalized": 34.38
+        },
+        {
+          "cycle": 13,
+          "value": 1402.58,
+          "normalized": 26.99
+        },
+        {
+          "cycle": 14,
+          "value": 1400.96,
+          "normalized": 22.9
+        },
+        {
+          "cycle": 15,
+          "value": 1404.37,
+          "normalized": 31.51
+        },
+        {
+          "cycle": 16,
+          "value": 1402.46,
+          "normalized": 26.69
+        },
+        {
+          "cycle": 17,
+          "value": 1409.35,
+          "normalized": 44.07
+        },
+        {
+          "cycle": 18,
+          "value": 1405.28,
+          "normalized": 33.8
+        },
+        {
+          "cycle": 19,
+          "value": 1405.31,
+          "normalized": 33.88
+        },
+        {
+          "cycle": 20,
+          "value": 1407.81,
+          "normalized": 40.19
+        },
+        {
+          "cycle": 21,
+          "value": 1405.58,
+          "normalized": 34.56
+        },
+        {
+          "cycle": 22,
+          "value": 1407.2,
+          "normalized": 38.65
+        },
+        {
+          "cycle": 23,
+          "value": 1395.37,
+          "normalized": 8.8
+        },
+        {
+          "cycle": 24,
+          "value": 1399.81,
+          "normalized": 20.0
+        },
+        {
+          "cycle": 25,
+          "value": 1406.22,
+          "normalized": 36.17
+        },
+        {
+          "cycle": 26,
+          "value": 1403.33,
+          "normalized": 28.88
+        },
+        {
+          "cycle": 27,
+          "value": 1404.8,
+          "normalized": 32.59
+        },
+        {
+          "cycle": 28,
+          "value": 1401.47,
+          "normalized": 24.19
+        },
+        {
+          "cycle": 29,
+          "value": 1395.34,
+          "normalized": 8.72
+        },
+        {
+          "cycle": 30,
+          "value": 1399.06,
+          "normalized": 18.11
+        },
+        {
+          "cycle": 31,
+          "value": 1398.46,
+          "normalized": 16.59
+        },
+        {
+          "cycle": 32,
+          "value": 1409.32,
+          "normalized": 44.0
+        },
+        {
+          "cycle": 33,
+          "value": 1405.98,
+          "normalized": 35.57
+        },
+        {
+          "cycle": 34,
+          "value": 1395.34,
+          "normalized": 8.72
+        },
+        {
+          "cycle": 35,
+          "value": 1403.92,
+          "normalized": 30.37
+        },
+        {
+          "cycle": 36,
+          "value": 1403.78,
+          "normalized": 30.02
+        },
+        {
+          "cycle": 37,
+          "value": 1408.57,
+          "normalized": 42.1
+        },
+        {
+          "cycle": 38,
+          "value": 1398.39,
+          "normalized": 16.42
+        },
+        {
+          "cycle": 39,
+          "value": 1411.73,
+          "normalized": 50.08
+        },
+        {
+          "cycle": 40,
+          "value": 1408.36,
+          "normalized": 41.57
+        },
+        {
+          "cycle": 41,
+          "value": 1406.25,
+          "normalized": 36.25
+        },
+        {
+          "cycle": 42,
+          "value": 1405.59,
+          "normalized": 34.58
+        },
+        {
+          "cycle": 43,
+          "value": 1405.13,
+          "normalized": 33.42
+        },
+        {
+          "cycle": 44,
+          "value": 1409.3,
+          "normalized": 43.94
+        },
+        {
+          "cycle": 45,
+          "value": 1404.3,
+          "normalized": 31.33
+        },
+        {
+          "cycle": 46,
+          "value": 1407.64,
+          "normalized": 39.76
+        },
+        {
+          "cycle": 47,
+          "value": 1409.57,
+          "normalized": 44.63
+        },
+        {
+          "cycle": 48,
+          "value": 1404.08,
+          "normalized": 30.77
+        },
+        {
+          "cycle": 49,
+          "value": 1400.37,
+          "normalized": 21.41
+        },
+        {
+          "cycle": 50,
+          "value": 1407.25,
+          "normalized": 38.77
+        },
+        {
+          "cycle": 51,
+          "value": 1410.61,
+          "normalized": 47.25
+        },
+        {
+          "cycle": 52,
+          "value": 1403.31,
+          "normalized": 28.83
+        },
+        {
+          "cycle": 53,
+          "value": 1403.29,
+          "normalized": 28.78
+        },
+        {
+          "cycle": 54,
+          "value": 1415.29,
+          "normalized": 59.06
+        }
+      ]
+    },
+    {
+      "key": "sensor_11",
+      "label": "HPC outlet static pressure",
+      "unit": "psia",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 47.3,
+          "normalized": 21.55
+        },
+        {
+          "cycle": 2,
+          "value": 47.5,
+          "normalized": 38.79
+        },
+        {
+          "cycle": 3,
+          "value": 47.34,
+          "normalized": 25.0
+        },
+        {
+          "cycle": 4,
+          "value": 47.29,
+          "normalized": 20.69
+        },
+        {
+          "cycle": 5,
+          "value": 47.46,
+          "normalized": 35.34
+        },
+        {
+          "cycle": 6,
+          "value": 47.36,
+          "normalized": 26.72
+        },
+        {
+          "cycle": 7,
+          "value": 47.48,
+          "normalized": 37.07
+        },
+        {
+          "cycle": 8,
+          "value": 47.25,
+          "normalized": 17.24
+        },
+        {
+          "cycle": 9,
+          "value": 47.38,
+          "normalized": 28.45
+        },
+        {
+          "cycle": 10,
+          "value": 47.38,
+          "normalized": 28.45
+        },
+        {
+          "cycle": 11,
+          "value": 47.42,
+          "normalized": 31.9
+        },
+        {
+          "cycle": 12,
+          "value": 47.42,
+          "normalized": 31.9
+        },
+        {
+          "cycle": 13,
+          "value": 47.51,
+          "normalized": 39.66
+        },
+        {
+          "cycle": 14,
+          "value": 47.26,
+          "normalized": 18.1
+        },
+        {
+          "cycle": 15,
+          "value": 47.39,
+          "normalized": 29.31
+        },
+        {
+          "cycle": 16,
+          "value": 47.61,
+          "normalized": 48.28
+        },
+        {
+          "cycle": 17,
+          "value": 47.53,
+          "normalized": 41.38
+        },
+        {
+          "cycle": 18,
+          "value": 47.32,
+          "normalized": 23.28
+        },
+        {
+          "cycle": 19,
+          "value": 47.32,
+          "normalized": 23.28
+        },
+        {
+          "cycle": 20,
+          "value": 47.27,
+          "normalized": 18.97
+        },
+        {
+          "cycle": 21,
+          "value": 47.52,
+          "normalized": 40.52
+        },
+        {
+          "cycle": 22,
+          "value": 47.33,
+          "normalized": 24.14
+        },
+        {
+          "cycle": 23,
+          "value": 47.48,
+          "normalized": 37.07
+        },
+        {
+          "cycle": 24,
+          "value": 47.3,
+          "normalized": 21.55
+        },
+        {
+          "cycle": 25,
+          "value": 47.32,
+          "normalized": 23.28
+        },
+        {
+          "cycle": 26,
+          "value": 47.34,
+          "normalized": 25.0
+        },
+        {
+          "cycle": 27,
+          "value": 47.25,
+          "normalized": 17.24
+        },
+        {
+          "cycle": 28,
+          "value": 47.65,
+          "normalized": 51.72
+        },
+        {
+          "cycle": 29,
+          "value": 47.38,
+          "normalized": 28.45
+        },
+        {
+          "cycle": 30,
+          "value": 47.53,
+          "normalized": 41.38
+        },
+        {
+          "cycle": 31,
+          "value": 47.39,
+          "normalized": 29.31
+        },
+        {
+          "cycle": 32,
+          "value": 47.43,
+          "normalized": 32.76
+        },
+        {
+          "cycle": 33,
+          "value": 47.49,
+          "normalized": 37.93
+        },
+        {
+          "cycle": 34,
+          "value": 47.28,
+          "normalized": 19.83
+        },
+        {
+          "cycle": 35,
+          "value": 47.44,
+          "normalized": 33.62
+        },
+        {
+          "cycle": 36,
+          "value": 47.7,
+          "normalized": 56.03
+        },
+        {
+          "cycle": 37,
+          "value": 47.53,
+          "normalized": 41.38
+        },
+        {
+          "cycle": 38,
+          "value": 47.53,
+          "normalized": 41.38
+        },
+        {
+          "cycle": 39,
+          "value": 47.52,
+          "normalized": 40.52
+        },
+        {
+          "cycle": 40,
+          "value": 47.35,
+          "normalized": 25.86
+        },
+        {
+          "cycle": 41,
+          "value": 47.42,
+          "normalized": 31.9
+        },
+        {
+          "cycle": 42,
+          "value": 47.44,
+          "normalized": 33.62
+        },
+        {
+          "cycle": 43,
+          "value": 47.42,
+          "normalized": 31.9
+        },
+        {
+          "cycle": 44,
+          "value": 47.28,
+          "normalized": 19.83
+        },
+        {
+          "cycle": 45,
+          "value": 47.48,
+          "normalized": 37.07
+        },
+        {
+          "cycle": 46,
+          "value": 47.43,
+          "normalized": 32.76
+        },
+        {
+          "cycle": 47,
+          "value": 47.37,
+          "normalized": 27.59
+        },
+        {
+          "cycle": 48,
+          "value": 47.31,
+          "normalized": 22.41
+        },
+        {
+          "cycle": 49,
+          "value": 47.46,
+          "normalized": 35.34
+        },
+        {
+          "cycle": 50,
+          "value": 47.36,
+          "normalized": 26.72
+        },
+        {
+          "cycle": 51,
+          "value": 47.58,
+          "normalized": 45.69
+        },
+        {
+          "cycle": 52,
+          "value": 47.41,
+          "normalized": 31.03
+        },
+        {
+          "cycle": 53,
+          "value": 47.28,
+          "normalized": 19.83
+        },
+        {
+          "cycle": 54,
+          "value": 47.52,
+          "normalized": 40.52
+        }
+      ]
+    },
+    {
+      "key": "sensor_3",
+      "label": "HPC outlet temperature",
+      "unit": "°R",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 1585.26,
+          "normalized": 27.06
+        },
+        {
+          "cycle": 2,
+          "value": 1587.96,
+          "normalized": 36.62
+        },
+        {
+          "cycle": 3,
+          "value": 1584.95,
+          "normalized": 25.96
+        },
+        {
+          "cycle": 4,
+          "value": 1577.45,
+          "normalized": 0.0
+        },
+        {
+          "cycle": 5,
+          "value": 1581.8,
+          "normalized": 14.82
+        },
+        {
+          "cycle": 6,
+          "value": 1587.89,
+          "normalized": 36.37
+        },
+        {
+          "cycle": 7,
+          "value": 1589.47,
+          "normalized": 41.96
+        },
+        {
+          "cycle": 8,
+          "value": 1585.66,
+          "normalized": 28.48
+        },
+        {
+          "cycle": 9,
+          "value": 1588.56,
+          "normalized": 38.74
+        },
+        {
+          "cycle": 10,
+          "value": 1592.89,
+          "normalized": 54.06
+        },
+        {
+          "cycle": 11,
+          "value": 1596.45,
+          "normalized": 66.66
+        },
+        {
+          "cycle": 12,
+          "value": 1587.85,
+          "normalized": 36.23
+        },
+        {
+          "cycle": 13,
+          "value": 1583.0,
+          "normalized": 19.06
+        },
+        {
+          "cycle": 14,
+          "value": 1581.73,
+          "normalized": 14.57
+        },
+        {
+          "cycle": 15,
+          "value": 1590.52,
+          "normalized": 45.68
+        },
+        {
+          "cycle": 16,
+          "value": 1588.12,
+          "normalized": 37.18
+        },
+        {
+          "cycle": 17,
+          "value": 1587.66,
+          "normalized": 35.55
+        },
+        {
+          "cycle": 18,
+          "value": 1594.77,
+          "normalized": 60.72
+        },
+        {
+          "cycle": 19,
+          "value": 1589.74,
+          "normalized": 42.92
+        },
+        {
+          "cycle": 20,
+          "value": 1587.45,
+          "normalized": 34.81
+        },
+        {
+          "cycle": 21,
+          "value": 1589.46,
+          "normalized": 41.92
+        },
+        {
+          "cycle": 22,
+          "value": 1587.93,
+          "normalized": 36.51
+        },
+        {
+          "cycle": 23,
+          "value": 1592.45,
+          "normalized": 52.51
+        },
+        {
+          "cycle": 24,
+          "value": 1585.56,
+          "normalized": 28.12
+        },
+        {
+          "cycle": 25,
+          "value": 1580.64,
+          "normalized": 10.71
+        },
+        {
+          "cycle": 26,
+          "value": 1585.5,
+          "normalized": 27.91
+        },
+        {
+          "cycle": 27,
+          "value": 1586.2,
+          "normalized": 30.39
+        },
+        {
+          "cycle": 28,
+          "value": 1592.74,
+          "normalized": 53.53
+        },
+        {
+          "cycle": 29,
+          "value": 1587.55,
+          "normalized": 35.17
+        },
+        {
+          "cycle": 30,
+          "value": 1588.33,
+          "normalized": 37.93
+        },
+        {
+          "cycle": 31,
+          "value": 1595.72,
+          "normalized": 64.08
+        },
+        {
+          "cycle": 32,
+          "value": 1593.35,
+          "normalized": 55.69
+        },
+        {
+          "cycle": 33,
+          "value": 1591.13,
+          "normalized": 47.83
+        },
+        {
+          "cycle": 34,
+          "value": 1593.38,
+          "normalized": 55.8
+        },
+        {
+          "cycle": 35,
+          "value": 1589.13,
+          "normalized": 40.76
+        },
+        {
+          "cycle": 36,
+          "value": 1588.07,
+          "normalized": 37.01
+        },
+        {
+          "cycle": 37,
+          "value": 1589.93,
+          "normalized": 43.59
+        },
+        {
+          "cycle": 38,
+          "value": 1591.83,
+          "normalized": 50.31
+        },
+        {
+          "cycle": 39,
+          "value": 1587.78,
+          "normalized": 35.98
+        },
+        {
+          "cycle": 40,
+          "value": 1588.84,
+          "normalized": 39.73
+        },
+        {
+          "cycle": 41,
+          "value": 1585.31,
+          "normalized": 27.24
+        },
+        {
+          "cycle": 42,
+          "value": 1590.21,
+          "normalized": 44.58
+        },
+        {
+          "cycle": 43,
+          "value": 1593.41,
+          "normalized": 55.9
+        },
+        {
+          "cycle": 44,
+          "value": 1593.46,
+          "normalized": 56.08
+        },
+        {
+          "cycle": 45,
+          "value": 1587.07,
+          "normalized": 33.47
+        },
+        {
+          "cycle": 46,
+          "value": 1589.19,
+          "normalized": 40.97
+        },
+        {
+          "cycle": 47,
+          "value": 1592.95,
+          "normalized": 54.27
+        },
+        {
+          "cycle": 48,
+          "value": 1586.28,
+          "normalized": 30.67
+        },
+        {
+          "cycle": 49,
+          "value": 1589.18,
+          "normalized": 40.93
+        },
+        {
+          "cycle": 50,
+          "value": 1583.01,
+          "normalized": 19.1
+        },
+        {
+          "cycle": 51,
+          "value": 1590.31,
+          "normalized": 44.93
+        },
+        {
+          "cycle": 52,
+          "value": 1587.56,
+          "normalized": 35.2
+        },
+        {
+          "cycle": 53,
+          "value": 1594.66,
+          "normalized": 60.33
+        },
+        {
+          "cycle": 54,
+          "value": 1582.3,
+          "normalized": 16.59
+        }
+      ]
+    },
+    {
+      "key": "sensor_15",
+      "label": "Bypass ratio",
+      "unit": "—",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 8.406,
+          "normalized": 22.51
+        },
+        {
+          "cycle": 2,
+          "value": 8.3979,
+          "normalized": 17.65
+        },
+        {
+          "cycle": 3,
+          "value": 8.44,
+          "normalized": 42.92
+        },
+        {
+          "cycle": 4,
+          "value": 8.4129,
+          "normalized": 26.66
+        },
+        {
+          "cycle": 5,
+          "value": 8.4186,
+          "normalized": 30.08
+        },
+        {
+          "cycle": 6,
+          "value": 8.4056,
+          "normalized": 22.27
+        },
+        {
+          "cycle": 7,
+          "value": 8.4342,
+          "normalized": 39.44
+        },
+        {
+          "cycle": 8,
+          "value": 8.4017,
+          "normalized": 19.93
+        },
+        {
+          "cycle": 9,
+          "value": 8.4186,
+          "normalized": 30.08
+        },
+        {
+          "cycle": 10,
+          "value": 8.4363,
+          "normalized": 40.7
+        },
+        {
+          "cycle": 11,
+          "value": 8.3935,
+          "normalized": 15.01
+        },
+        {
+          "cycle": 12,
+          "value": 8.4448,
+          "normalized": 45.81
+        },
+        {
+          "cycle": 13,
+          "value": 8.4328,
+          "normalized": 38.6
+        },
+        {
+          "cycle": 14,
+          "value": 8.4073,
+          "normalized": 23.29
+        },
+        {
+          "cycle": 15,
+          "value": 8.4352,
+          "normalized": 40.04
+        },
+        {
+          "cycle": 16,
+          "value": 8.3998,
+          "normalized": 18.79
+        },
+        {
+          "cycle": 17,
+          "value": 8.4524,
+          "normalized": 50.37
+        },
+        {
+          "cycle": 18,
+          "value": 8.4112,
+          "normalized": 25.63
+        },
+        {
+          "cycle": 19,
+          "value": 8.4878,
+          "normalized": 71.62
+        },
+        {
+          "cycle": 20,
+          "value": 8.4282,
+          "normalized": 35.84
+        },
+        {
+          "cycle": 21,
+          "value": 8.4413,
+          "normalized": 43.71
+        },
+        {
+          "cycle": 22,
+          "value": 8.4686,
+          "normalized": 60.09
+        },
+        {
+          "cycle": 23,
+          "value": 8.4312,
+          "normalized": 37.64
+        },
+        {
+          "cycle": 24,
+          "value": 8.4313,
+          "normalized": 37.7
+        },
+        {
+          "cycle": 25,
+          "value": 8.4147,
+          "normalized": 27.74
+        },
+        {
+          "cycle": 26,
+          "value": 8.4302,
+          "normalized": 37.04
+        },
+        {
+          "cycle": 27,
+          "value": 8.4454,
+          "normalized": 46.17
+        },
+        {
+          "cycle": 28,
+          "value": 8.427,
+          "normalized": 35.12
+        },
+        {
+          "cycle": 29,
+          "value": 8.3785,
+          "normalized": 6.0
+        },
+        {
+          "cycle": 30,
+          "value": 8.4605,
+          "normalized": 55.23
+        },
+        {
+          "cycle": 31,
+          "value": 8.3855,
+          "normalized": 10.21
+        },
+        {
+          "cycle": 32,
+          "value": 8.4459,
+          "normalized": 46.47
+        },
+        {
+          "cycle": 33,
+          "value": 8.4083,
+          "normalized": 23.89
+        },
+        {
+          "cycle": 34,
+          "value": 8.4308,
+          "normalized": 37.4
+        },
+        {
+          "cycle": 35,
+          "value": 8.4364,
+          "normalized": 40.76
+        },
+        {
+          "cycle": 36,
+          "value": 8.4188,
+          "normalized": 30.2
+        },
+        {
+          "cycle": 37,
+          "value": 8.4256,
+          "normalized": 34.28
+        },
+        {
+          "cycle": 38,
+          "value": 8.3958,
+          "normalized": 16.39
+        },
+        {
+          "cycle": 39,
+          "value": 8.4179,
+          "normalized": 29.66
+        },
+        {
+          "cycle": 40,
+          "value": 8.3806,
+          "normalized": 7.26
+        },
+        {
+          "cycle": 41,
+          "value": 8.4506,
+          "normalized": 49.29
+        },
+        {
+          "cycle": 42,
+          "value": 8.4464,
+          "normalized": 46.77
+        },
+        {
+          "cycle": 43,
+          "value": 8.4544,
+          "normalized": 51.57
+        },
+        {
+          "cycle": 44,
+          "value": 8.3928,
+          "normalized": 14.59
+        },
+        {
+          "cycle": 45,
+          "value": 8.4106,
+          "normalized": 25.27
+        },
+        {
+          "cycle": 46,
+          "value": 8.389,
+          "normalized": 12.31
+        },
+        {
+          "cycle": 47,
+          "value": 8.4078,
+          "normalized": 23.59
+        },
+        {
+          "cycle": 48,
+          "value": 8.4568,
+          "normalized": 53.01
+        },
+        {
+          "cycle": 49,
+          "value": 8.4222,
+          "normalized": 32.24
+        },
+        {
+          "cycle": 50,
+          "value": 8.3894,
+          "normalized": 12.55
+        },
+        {
+          "cycle": 51,
+          "value": 8.4303,
+          "normalized": 37.1
+        },
+        {
+          "cycle": 52,
+          "value": 8.4287,
+          "normalized": 36.14
+        },
+        {
+          "cycle": 53,
+          "value": 8.4827,
+          "normalized": 68.56
+        },
+        {
+          "cycle": 54,
+          "value": 8.4391,
+          "normalized": 42.38
+        }
+      ]
+    },
+    {
+      "key": "sensor_2",
+      "label": "LPC outlet temperature",
+      "unit": "°R",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 642.21,
+          "normalized": 24.56
+        },
+        {
+          "cycle": 2,
+          "value": 642.03,
+          "normalized": 16.67
+        },
+        {
+          "cycle": 3,
+          "value": 642.84,
+          "normalized": 52.19
+        },
+        {
+          "cycle": 4,
+          "value": 642.62,
+          "normalized": 42.54
+        },
+        {
+          "cycle": 5,
+          "value": 642.25,
+          "normalized": 26.32
+        },
+        {
+          "cycle": 6,
+          "value": 642.2,
+          "normalized": 24.12
+        },
+        {
+          "cycle": 7,
+          "value": 642.43,
+          "normalized": 34.21
+        },
+        {
+          "cycle": 8,
+          "value": 642.11,
+          "normalized": 20.18
+        },
+        {
+          "cycle": 9,
+          "value": 642.36,
+          "normalized": 31.14
+        },
+        {
+          "cycle": 10,
+          "value": 642.24,
+          "normalized": 25.88
+        },
+        {
+          "cycle": 11,
+          "value": 642.63,
+          "normalized": 42.98
+        },
+        {
+          "cycle": 12,
+          "value": 642.65,
+          "normalized": 43.86
+        },
+        {
+          "cycle": 13,
+          "value": 642.22,
+          "normalized": 25.0
+        },
+        {
+          "cycle": 14,
+          "value": 642.96,
+          "normalized": 57.46
+        },
+        {
+          "cycle": 15,
+          "value": 641.99,
+          "normalized": 14.91
+        },
+        {
+          "cycle": 16,
+          "value": 642.2,
+          "normalized": 24.12
+        },
+        {
+          "cycle": 17,
+          "value": 642.34,
+          "normalized": 30.26
+        },
+        {
+          "cycle": 18,
+          "value": 642.68,
+          "normalized": 45.18
+        },
+        {
+          "cycle": 19,
+          "value": 641.58,
+          "normalized": 0.0
+        },
+        {
+          "cycle": 20,
+          "value": 642.04,
+          "normalized": 17.11
+        },
+        {
+          "cycle": 21,
+          "value": 642.55,
+          "normalized": 39.47
+        },
+        {
+          "cycle": 22,
+          "value": 642.66,
+          "normalized": 44.3
+        },
+        {
+          "cycle": 23,
+          "value": 642.24,
+          "normalized": 25.88
+        },
+        {
+          "cycle": 24,
+          "value": 642.34,
+          "normalized": 30.26
+        },
+        {
+          "cycle": 25,
+          "value": 641.67,
+          "normalized": 0.88
+        },
+        {
+          "cycle": 26,
+          "value": 641.95,
+          "normalized": 13.16
+        },
+        {
+          "cycle": 27,
+          "value": 642.78,
+          "normalized": 49.56
+        },
+        {
+          "cycle": 28,
+          "value": 642.56,
+          "normalized": 39.91
+        },
+        {
+          "cycle": 29,
+          "value": 642.02,
+          "normalized": 16.23
+        },
+        {
+          "cycle": 30,
+          "value": 642.33,
+          "normalized": 29.82
+        },
+        {
+          "cycle": 31,
+          "value": 642.73,
+          "normalized": 47.37
+        },
+        {
+          "cycle": 32,
+          "value": 642.2,
+          "normalized": 24.12
+        },
+        {
+          "cycle": 33,
+          "value": 643.12,
+          "normalized": 64.47
+        },
+        {
+          "cycle": 34,
+          "value": 643.34,
+          "normalized": 74.12
+        },
+        {
+          "cycle": 35,
+          "value": 642.4,
+          "normalized": 32.89
+        },
+        {
+          "cycle": 36,
+          "value": 642.58,
+          "normalized": 40.79
+        },
+        {
+          "cycle": 37,
+          "value": 642.0,
+          "normalized": 15.35
+        },
+        {
+          "cycle": 38,
+          "value": 642.66,
+          "normalized": 44.3
+        },
+        {
+          "cycle": 39,
+          "value": 642.9,
+          "normalized": 54.82
+        },
+        {
+          "cycle": 40,
+          "value": 642.86,
+          "normalized": 53.07
+        },
+        {
+          "cycle": 41,
+          "value": 642.49,
+          "normalized": 36.84
+        },
+        {
+          "cycle": 42,
+          "value": 642.77,
+          "normalized": 49.12
+        },
+        {
+          "cycle": 43,
+          "value": 642.75,
+          "normalized": 48.25
+        },
+        {
+          "cycle": 44,
+          "value": 642.12,
+          "normalized": 20.61
+        },
+        {
+          "cycle": 45,
+          "value": 642.27,
+          "normalized": 27.19
+        },
+        {
+          "cycle": 46,
+          "value": 642.53,
+          "normalized": 38.6
+        },
+        {
+          "cycle": 47,
+          "value": 642.58,
+          "normalized": 40.79
+        },
+        {
+          "cycle": 48,
+          "value": 642.93,
+          "normalized": 56.14
+        },
+        {
+          "cycle": 49,
+          "value": 642.69,
+          "normalized": 45.61
+        },
+        {
+          "cycle": 50,
+          "value": 642.66,
+          "normalized": 44.3
+        },
+        {
+          "cycle": 51,
+          "value": 642.31,
+          "normalized": 28.95
+        },
+        {
+          "cycle": 52,
+          "value": 642.44,
+          "normalized": 34.65
+        },
+        {
+          "cycle": 53,
+          "value": 642.27,
+          "normalized": 27.19
+        },
+        {
+          "cycle": 54,
+          "value": 642.49,
+          "normalized": 36.84
+        }
+      ]
+    },
+    {
+      "key": "sensor_21",
+      "label": "LPT coolant bleed",
+      "unit": "lbm/s",
+      "points": [
+        {
+          "cycle": 1,
+          "value": 23.3039,
+          "normalized": 58.12
+        },
+        {
+          "cycle": 2,
+          "value": 23.3033,
+          "normalized": 58.0
+        },
+        {
+          "cycle": 3,
+          "value": 23.2853,
+          "normalized": 54.32
+        },
+        {
+          "cycle": 4,
+          "value": 23.3778,
+          "normalized": 73.22
+        },
+        {
+          "cycle": 5,
+          "value": 23.3241,
+          "normalized": 62.25
+        },
+        {
+          "cycle": 6,
+          "value": 23.2735,
+          "normalized": 51.91
+        },
+        {
+          "cycle": 7,
+          "value": 23.4376,
+          "normalized": 85.44
+        },
+        {
+          "cycle": 8,
+          "value": 23.3741,
+          "normalized": 72.46
+        },
+        {
+          "cycle": 9,
+          "value": 23.3154,
+          "normalized": 60.47
+        },
+        {
+          "cycle": 10,
+          "value": 23.2484,
+          "normalized": 46.78
+        },
+        {
+          "cycle": 11,
+          "value": 23.3447,
+          "normalized": 66.46
+        },
+        {
+          "cycle": 12,
+          "value": 23.3013,
+          "normalized": 57.59
+        },
+        {
+          "cycle": 13,
+          "value": 23.3363,
+          "normalized": 64.74
+        },
+        {
+          "cycle": 14,
+          "value": 23.2553,
+          "normalized": 48.19
+        },
+        {
+          "cycle": 15,
+          "value": 23.318,
+          "normalized": 61.0
+        },
+        {
+          "cycle": 16,
+          "value": 23.2633,
+          "normalized": 49.82
+        },
+        {
+          "cycle": 17,
+          "value": 23.3823,
+          "normalized": 74.14
+        },
+        {
+          "cycle": 18,
+          "value": 23.3635,
+          "normalized": 70.3
+        },
+        {
+          "cycle": 19,
+          "value": 23.3011,
+          "normalized": 57.55
+        },
+        {
+          "cycle": 20,
+          "value": 23.3478,
+          "normalized": 67.09
+        },
+        {
+          "cycle": 21,
+          "value": 23.3764,
+          "normalized": 72.93
+        },
+        {
+          "cycle": 22,
+          "value": 23.281,
+          "normalized": 53.44
+        },
+        {
+          "cycle": 23,
+          "value": 23.4401,
+          "normalized": 85.95
+        },
+        {
+          "cycle": 24,
+          "value": 23.3811,
+          "normalized": 73.9
+        },
+        {
+          "cycle": 25,
+          "value": 23.3801,
+          "normalized": 73.69
+        },
+        {
+          "cycle": 26,
+          "value": 23.4307,
+          "normalized": 84.03
+        },
+        {
+          "cycle": 27,
+          "value": 23.5682,
+          "normalized": 100.0
+        },
+        {
+          "cycle": 28,
+          "value": 23.4004,
+          "normalized": 77.84
+        },
+        {
+          "cycle": 29,
+          "value": 23.3988,
+          "normalized": 77.51
+        },
+        {
+          "cycle": 30,
+          "value": 23.3903,
+          "normalized": 75.78
+        },
+        {
+          "cycle": 31,
+          "value": 23.1564,
+          "normalized": 27.98
+        },
+        {
+          "cycle": 32,
+          "value": 23.3962,
+          "normalized": 76.98
+        },
+        {
+          "cycle": 33,
+          "value": 23.3526,
+          "normalized": 68.07
+        },
+        {
+          "cycle": 34,
+          "value": 23.2347,
+          "normalized": 43.98
+        },
+        {
+          "cycle": 35,
+          "value": 23.3785,
+          "normalized": 73.36
+        },
+        {
+          "cycle": 36,
+          "value": 23.3741,
+          "normalized": 72.46
+        },
+        {
+          "cycle": 37,
+          "value": 23.4817,
+          "normalized": 94.45
+        },
+        {
+          "cycle": 38,
+          "value": 23.3399,
+          "normalized": 65.48
+        },
+        {
+          "cycle": 39,
+          "value": 23.3664,
+          "normalized": 70.89
+        },
+        {
+          "cycle": 40,
+          "value": 23.3135,
+          "normalized": 60.08
+        },
+        {
+          "cycle": 41,
+          "value": 23.3302,
+          "normalized": 63.49
+        },
+        {
+          "cycle": 42,
+          "value": 23.338,
+          "normalized": 65.09
+        },
+        {
+          "cycle": 43,
+          "value": 23.2929,
+          "normalized": 55.87
+        },
+        {
+          "cycle": 44,
+          "value": 23.3139,
+          "normalized": 60.16
+        },
+        {
+          "cycle": 45,
+          "value": 23.2846,
+          "normalized": 54.18
+        },
+        {
+          "cycle": 46,
+          "value": 23.2701,
+          "normalized": 51.21
+        },
+        {
+          "cycle": 47,
+          "value": 23.2507,
+          "normalized": 47.25
+        },
+        {
+          "cycle": 48,
+          "value": 23.3033,
+          "normalized": 58.0
+        },
+        {
+          "cycle": 49,
+          "value": 23.2545,
+          "normalized": 48.02
+        },
+        {
+          "cycle": 50,
+          "value": 23.3346,
+          "normalized": 64.39
+        },
+        {
+          "cycle": 51,
+          "value": 23.3678,
+          "normalized": 71.18
+        },
+        {
+          "cycle": 52,
+          "value": 23.3205,
+          "normalized": 61.51
+        },
+        {
+          "cycle": 53,
+          "value": 23.364,
+          "normalized": 70.4
+        },
+        {
+          "cycle": 54,
+          "value": 23.3058,
+          "normalized": 58.51
+        }
+      ]
+    }
+  ],
+  "contributions": [
+    {
+      "feature": "cycle",
+      "label": "Observed operating cycle",
+      "contribution": 14.05,
+      "direction": "extends"
+    },
+    {
+      "feature": "sensor_4_mean_5",
+      "label": "5-cycle mean · LPT outlet temperature",
+      "contribution": 5.64,
+      "direction": "extends"
+    },
+    {
+      "feature": "sensor_11_mean_5",
+      "label": "5-cycle mean · HPC outlet static pressure",
+      "contribution": 3.85,
+      "direction": "extends"
+    },
+    {
+      "feature": "sensor_2_mean_5",
+      "label": "5-cycle mean · LPC outlet temperature",
+      "contribution": 2.09,
+      "direction": "extends"
+    },
+    {
+      "feature": "sensor_21_mean_5",
+      "label": "5-cycle mean · LPT coolant bleed",
+      "contribution": 1.68,
+      "direction": "extends"
+    },
+    {
+      "feature": "sensor_14_mean_20",
+      "label": "20-cycle mean · Corrected core speed",
+      "contribution": 1.63,
+      "direction": "extends"
+    }
+  ]
+}
