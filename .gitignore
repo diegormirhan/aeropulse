@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Dataset (downloaded reproducibly by scripts/download_data.py)
+data/raw/*
+!data/raw/SOURCE.json
+
+# Local tooling
+.DS_Store
+Thumbs.db
+.env
+.impeccable/*
+.hallmark/*
+VIDEO_SCRIPT_PT_BR.md
+LINKEDIN_POST_PT_BR.md
+PRODUCT.md
+DESIGN.md
