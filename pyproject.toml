@@ -1,0 +1,56 @@
+[project]
+name = "aeropulse"
+version = "0.1.0"
+description = "Local predictive-maintenance application for NASA C-MAPSS turbofan data"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "fastapi[standard]>=0.116.0",
+  "joblib>=1.5.0",
+  "numpy>=2.2.0",
+  "pandas>=2.2.0",
+  "pydantic-settings>=2.10.0",
+  "scikit-learn>=1.7.0",
+  "xgboost>=3.0.0",
+]
+
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["backend"]
+
+[dependency-groups]
+dev = [
+  "httpx2>=2.12.0",
+  "pytest>=8.4.0",
+  "pytest-cov>=6.2.0",
+  "ruff>=0.12.0",
+  "ty>=0.0.1a17",
+]
+
+[tool.fastapi]
+entrypoint = "aeropulse_api.main:app"
+
+[tool.pytest.ini_options]
+addopts = "-q --strict-markers"
+pythonpath = ["backend"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "FAST"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.coverage.run]
+source = ["backend/aeropulse_api"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = true

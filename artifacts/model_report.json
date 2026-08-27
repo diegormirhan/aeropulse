@@ -1,0 +1,104 @@
+{
+  "dataset": "FD001",
+  "generated_at": "2026-08-24T22:26:31.220678+00:00",
+  "selected_model": "XGBoost window model",
+  "target": "Remaining useful life capped at 125 cycles",
+  "training_rows": 16138,
+  "validation_rows": 4493,
+  "test_engines": 100,
+  "interval_radius": 29.9,
+  "interval_coverage": 82.0,
+  "comparisons": [
+    {
+      "name": "Ridge baseline",
+      "role": "baseline",
+      "validation": {
+        "rmse": 18.696,
+        "mae": 14.096,
+        "nasa_score": 23926.568
+      },
+      "test": null
+    },
+    {
+      "name": "XGBoost window model",
+      "role": "candidate",
+      "validation": {
+        "rmse": 16.935,
+        "mae": 11.995,
+        "nasa_score": 20650.31
+      },
+      "test": {
+        "rmse": 17.154,
+        "mae": 12.485,
+        "nasa_score": 424.067
+      }
+    }
+  ],
+  "feature_importance": [
+    {
+      "feature": "sensor_4_mean_5",
+      "label": "5-cycle mean · LPT outlet temperature",
+      "importance": 43.56
+    },
+    {
+      "feature": "sensor_11_mean_5",
+      "label": "5-cycle mean · HPC outlet static pressure",
+      "importance": 13.19
+    },
+    {
+      "feature": "sensor_3_mean_20",
+      "label": "20-cycle mean · HPC outlet temperature",
+      "importance": 7.39
+    },
+    {
+      "feature": "sensor_15_mean_5",
+      "label": "5-cycle mean · Bypass ratio",
+      "importance": 4.53
+    },
+    {
+      "feature": "sensor_2_mean_20",
+      "label": "20-cycle mean · LPC outlet temperature",
+      "importance": 3.5
+    },
+    {
+      "feature": "sensor_2_mean_5",
+      "label": "5-cycle mean · LPC outlet temperature",
+      "importance": 2.85
+    },
+    {
+      "feature": "sensor_21_mean_5",
+      "label": "5-cycle mean · LPT coolant bleed",
+      "importance": 2.32
+    },
+    {
+      "feature": "cycle",
+      "label": "Observed operating cycle",
+      "importance": 2.04
+    },
+    {
+      "feature": "sensor_15_mean_20",
+      "label": "20-cycle mean · Bypass ratio",
+      "importance": 1.84
+    },
+    {
+      "feature": "sensor_9_mean_5",
+      "label": "5-cycle mean · Physical core speed",
+      "importance": 1.8
+    },
+    {
+      "feature": "sensor_3_mean_5",
+      "label": "5-cycle mean · HPC outlet temperature",
+      "importance": 1.76
+    },
+    {
+      "feature": "sensor_17_mean_5",
+      "label": "5-cycle mean · Bleed enthalpy",
+      "importance": 1.03
+    }
+  ],
+  "limitations": [
+    "C-MAPSS is a high-fidelity simulation, not live commercial aircraft telemetry.",
+    "The conformal interval uses a fixed residual radius from the engine holdout set.",
+    "The application is an educational portfolio system and is not safety-certified."
+  ]
+}
